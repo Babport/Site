@@ -7,7 +7,7 @@ header{
     padding: 20px 0;
 }
 
-.caixa{position: relative;
+.caixa{position: -ms-page;
     width: 600px;
     margin: 0 auto;
 }
